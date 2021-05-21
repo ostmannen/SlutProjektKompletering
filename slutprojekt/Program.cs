@@ -11,8 +11,6 @@ namespace slutprojekt
             while(playGame)
             {
                 playGame = age();
-
-                
             }
 
             Console.ReadLine();
